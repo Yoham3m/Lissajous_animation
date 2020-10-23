@@ -1,3 +1,3 @@
 # Lissajous_animation
 
-!!! make sure the modlue numpy,matplotlib can be usable
+The coding is to draw the Lissajous and its animation about the ABC logo 
